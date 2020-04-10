@@ -27,13 +27,13 @@ Las cosas más importantes de Haskell son:
 .
 ├── LICENSE
 ├── README.md                             # Este archivo
-├── Enunciado.pdf                         # El enunciado de la práctica en sí (\*)
+├── Enunciado.pdf                         # El enunciado de la práctica en sí (*)
 └── src                                   # Directorio que guarda el código de la PEC
-    ├── diccionario.txt                   # Fichero ".txt" con el diccionario de datos (\*)
+    ├── diccionario.txt                   # Fichero ".txt" con el diccionario de datos (*)
     ├── Dictionary.hs                     # Fichero con el código implementado por mi
-    ├── Main.hs                           # Fichero principal de la aplicación (\*)
-    ├── testStudents.txt                  # Fichero auxiliar del juego de pruebas (\*)
-    └── TestTLP2020Estudiantes.hs         # Fichero con el código del juego de pruebas (\*)
+    ├── Main.hs                           # Fichero principal de la aplicación (*)
+    ├── testStudents.txt                  # Fichero auxiliar del juego de pruebas (*)
+    └── TestTLP2020Estudiantes.hs         # Fichero con el código del juego de pruebas (*)
 ```
 
 Los ficheros marcados con un asterisco (\*) son ficheros que han sido proporcionados por el equiop docente y no se han modificado en este repositorio.
