@@ -36,6 +36,8 @@ Las cosas más importantes de Haskell son:
     └── TestTLP2020Estudiantes.hs         # Fichero con el código del juego de pruebas (\*)
 ```
 
+Los ficheros marcados con un asterisco (\*) son ficheros que han sido proporcionados por el equiop docente y no se han modificado en este repositorio.
+
 # Cómo ejecutar el código
 
 Utilizando el intérprete de haskell `ghci`:
